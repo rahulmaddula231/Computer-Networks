@@ -1,0 +1,14 @@
+**********************************************************************************
+Pinging starts for 1 th ICMP Request
+The Local Server 127.0.0.1
+Time Taken to sent requests from local client to local server in ms 1651973319.979152
+Time Taken to sent replies from local server to local client in ms 1651973319.979376
+The ICMP MESSAGE TIME DELAY is: 0.00022411346435546875
+The Message HI LOCAL SERVER
+**********************************************************************************
+Pinging starts for 2 th ICMP Request
+The Local Server 127.0.0.1
+Time Taken to sent requests from local client to local server in ms 1651973325.981455
+Time Taken to sent replies from local server to local client in ms 1651973325.9816809
+The ICMP MESSAGE TIME DELAY is: 0.0002257823944091797
+The Message HI LOCAL SERVER
